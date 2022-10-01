@@ -24,4 +24,14 @@ a:active {
 li{
     display: inline-block;
     border: 3px solid black;
+    float: right;
+}
+body {
+  background-image: linear-gradient(rgb(211, 248, 248), rgb(189, 216, 226));
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
